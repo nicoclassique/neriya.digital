@@ -5293,7 +5293,7 @@ input[type='checkbox'], input[type='radio'] {
 
 .container-inner {
 	display: none;
-	background-color: var(--lighttheme-3);
+	background-color: var(--lighttheme-1);
 	min-height: calc(100% - 100px);
 	margin-bottom:30px;
 }
